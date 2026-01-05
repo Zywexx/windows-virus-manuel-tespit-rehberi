@@ -234,7 +234,9 @@ Virüsler genellikle kendini saatlik/günlük çalışacak şekilde buraya ekler
 ## 📘 Core Guides (Ana Rehberler)
 
 📌 [Virüs Tespit Araçları ve En İyi Antivirüsler](virus-tespit-araclari-ve-en-iyi-antivirusler.md)
+
 📌 [Virüs Türleri Belirtiler Ve Kurtulma Yöntemleri](Virüs-Türleri-Belirtiler-Ve-Kurtulma-Yöntemleri.md)
+
 📌 [Virüsler Nerede ve Nasıl Saklanır?](Virüsler-Nerede-Ve-Nasıl-Saklanır.md)
 
 
