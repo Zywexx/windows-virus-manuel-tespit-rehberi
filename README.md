@@ -231,6 +231,11 @@ Virüsler genellikle kendini saatlik/günlük çalışacak şekilde buraya ekler
 
 ---
 
+## 📘 Core Guides (Ana Rehberler)
+
+
+---
+
 ## 9. Lisans ve Sorumluluk Reddi
 
 Bu doküman yalnızca **eğitim amaçlıdır**. Yanlış kullanım sonucu oluşabilecek veri kayıplarından kullanıcı sorumludur.
