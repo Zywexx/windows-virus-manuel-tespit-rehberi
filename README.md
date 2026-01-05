@@ -67,6 +67,8 @@ Windows’un yerleşik komut satırı aracıdır. Ağ bağlantıları, servisler
 
 ## 4. Process Explorer ile Virüs Tespiti
 
+https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer
+
 ### 4.1 Yönetici Olarak Çalıştırma
 
 * `procexp64.exe` → Sağ tık → **Yönetici olarak çalıştır**
