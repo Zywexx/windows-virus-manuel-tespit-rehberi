@@ -233,6 +233,8 @@ Virüsler genellikle kendini saatlik/günlük çalışacak şekilde buraya ekler
 
 ## 📘 Core Guides (Ana Rehberler)
 
+📌 [Virüs Tespit Araçları ve En İyi Antivirüsler](virus-tespit-araclari-ve-en-iyi-antivirusler.md)
+
 
 ---
 
